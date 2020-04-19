@@ -1,4 +1,5 @@
 # ForecastCoronaVirus Impact
+
 As a part of Intro to Python BANA 8090, this project aims to predict two aspects of COVID19
 
 1. Number of Confirmed Cases
@@ -14,3 +15,9 @@ There are multiple datasets used for the analysis
 3. Covid health Indicators by country
 4. Distance from China
 5. Webscraped data about population of different countries
+
+Execution:
+The files must be executed in the following order:
+i. Web scraping.ipynb
+ii. COVID19_Forecasting_EDA.ipynb
+iii. COVID19_Forecasting_Modelling.ipynb
