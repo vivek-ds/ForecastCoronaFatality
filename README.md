@@ -18,9 +18,6 @@ There are multiple datasets used for the analysis
 
 Execution:
 The files must be executed in the following order:
-
-i. Web scraping.ipynb
-
-ii. COVID19_Forecasting_EDA.ipynb
-
-iii. COVID19_Forecasting_Modelling.ipynb
+1. Web scraping.ipynb
+2. COVID19_Forecasting_EDA.ipynb
+3. COVID19_Forecasting_Modelling.ipynb
