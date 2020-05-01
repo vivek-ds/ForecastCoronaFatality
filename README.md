@@ -2,7 +2,7 @@
 
 ![COVID19](COVIDimage.jpg)
 
-This project aims to predict two aspects of COVID19
+This project aims to predict two aspects of COVID19:
 
 1. Number of Confirmed Cases
 2. Number of Fatalities
