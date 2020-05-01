@@ -2,8 +2,7 @@
 
 ![COVID19](COVIDimage.jpg)
 
-
-As a part of Intro to Python BANA 8090, this project aims to predict two aspects of COVID19
+This project aims to predict two aspects of COVID19
 
 1. Number of Confirmed Cases
 2. Number of Fatalities
