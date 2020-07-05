@@ -1,4 +1,4 @@
-# ForecastCoronaVirus Impact
+# Forecasting Corona Virus Impact
 
 ![COVID19](COVIDimage.jpg)
 
